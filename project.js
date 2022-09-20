@@ -9,5 +9,5 @@ for(let i=0; i<=num; i++){
 if(fac==2){
     console.log("Prime")
 }else{
-    console.log("NA prime")
+    console.log("Not prime")  
 }
