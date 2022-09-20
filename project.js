@@ -6,8 +6,8 @@ for(let i=0; i<=num; i++){
    }
    
 }
-if(fac!=2){
+if(fac==2){
     console.log("Prime")
 }else{
-    console.log("not prime")
+    console.log("NA prime")
 }
